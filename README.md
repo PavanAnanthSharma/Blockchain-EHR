@@ -66,8 +66,3 @@ Dark Mode
 - The [Doctor's Pubspec.yaml](doctor/pubspec.yaml) file contains all the dependencies that were used in creating of the doctor's application
 - The [Patient's Pubspec.yaml](patient/pubspec.yaml) file contains all the dependencies that were used in creating of the patient's application
 
-## Author Info
-
-- Name: Cosmas Nyairo
-- Website: <https://cosmasnyairo.herokuapp.com>
-- Email : nyairocosmas@gmail.com
