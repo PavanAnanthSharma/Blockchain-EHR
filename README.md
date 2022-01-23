@@ -1,4 +1,4 @@
-# EHR KENYA
+# EHR 
 
 Electronic Health Records Storage using Blockchain Technology
  
